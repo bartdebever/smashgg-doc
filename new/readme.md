@@ -24,7 +24,7 @@ There are 2 ways that URL requests can be done.
 Personally (Bart de Bever), I would use the POST option to not make your GET URL over complicated and unreadable.
 A basic tutorial on how to use URL requests can be [found on their website](https://graphql.github.io/learn/serving-over-http/)
 
-[JsFiddle showing how to POST](https://jsfiddle.net/swyvafL4/) [by Gaiwecoor](https://github.com/Gaiwecoor).
+[JsFiddle showing how to POST](https://jsfiddle.net/swyvafL4/) [by Gaiwecoor](https://github.com/Gaiwecoor) and [Brandon Cooke](https://github.com/BrandonCookeDev/).
 Note that the URL is missing from this fiddle. This is done to not expose the API to the public early.
 
 ### What is up with authentication?
